@@ -4,11 +4,11 @@ background-image: url("images/background.jpg");
 
 h1{
 margin-left: 100px;
-text-shadow: -2px 2px 3px #999;
+color: #ggg;
 }
 
 #title{
-font-family: sans-sherif helvetica, arial;
+font-family: helvetica, arial;
 color: #075C98;
 text-shadow: -2px 2px 3px #999;
 }
